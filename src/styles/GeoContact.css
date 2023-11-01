@@ -1,0 +1,10 @@
+.geo-contact {
+  position: relative;
+}
+
+.geo-contact-contact-container {
+  position: absolute;
+  top: 0;
+  left: 250px;
+  transform: translateY(50%);
+}

@@ -1,0 +1,21 @@
+.swiper {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.swiper-slide {
+  height: 100%;
+  width: 100%;
+  background: #fff;
+}
+
+.swiper-pagination-bullet {
+  transition: all 0.2s ease;
+}
+
+.swiper-pagination-bullet-active {
+  width: 30px;
+  border-radius: 5px;
+  background: white;
+}
